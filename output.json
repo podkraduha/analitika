@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "ИИ-модель Qwen 3 побила рекорды в бенчмарках",
+        "text": "Корпорация представила новую версию языковой модели Qwen 3. По словам разработчиков, модель показывает выдающиеся результаты в задачах кодинга и математики, опережая предыдущие поколения на 30%. Релиз состоялся в пятницу.",
+        "llm_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'qwen/qwen3-next-80b-a3b-instruct:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'Venice', 'is_byok': False, 'retry_after_seconds': 29, 'retry_after_seconds_raw': 28.885, 'headers': {'Retry-After': '29'}}}, 'user_id': 'user_3EiWc0C7J8fAkxrDJnMLn9Hngbe'}"
+        }
+    },
+    {
+        "id": 2,
+        "title": "ЦБ РФ сохранил ключевую ставку на уровне 16%",
+        "text": "Банк России принял решение сохранить ключевую ставку на текущем уровне. Регулятор отметил, что инфляционные ожидания населения остаются высокими, но темпы роста цен начинают замедляться. Эксперты ожидали повышения ставки.",
+        "llm_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'qwen/qwen3-next-80b-a3b-instruct:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'Venice', 'is_byok': False, 'retry_after_seconds': 29, 'retry_after_seconds_raw': 28.879, 'headers': {'Retry-After': '29'}}}, 'user_id': 'user_3EiWc0C7J8fAkxrDJnMLn9Hngbe'}"
+        }
+    },
+    {
+        "id": 3,
+        "title": "Сборная России по волейболу вышла в финал чемпионата мира",
+        "text": "В полуфинальном матче российская команда одержала уверенную победу над сборной Бразилии со счетом 3:1. Лучшим игроком матча был признан наш диагональный, набравший 25 очков. Финал пройдет в воскресенье.",
+        "llm_analysis": {
+            "error": "Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'qwen/qwen3-next-80b-a3b-instruct:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'Venice', 'is_byok': False, 'retry_after_seconds': 29, 'retry_after_seconds_raw': 28.866, 'headers': {'Retry-After': '29'}}}, 'user_id': 'user_3EiWc0C7J8fAkxrDJnMLn9Hngbe'}"
+        }
+    }
+]
