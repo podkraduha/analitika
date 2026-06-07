@@ -2,7 +2,7 @@ import json
 import pandas as pd
 from groq import Groq
 #API-ключ с сайта GroqCloud
-client = Groq(api_key="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")
+client = Groq(api_key="")
 #функция с промтом для нейросети
 def summarize_news(title, content):
     prompt = f"Сделай краткое содержание новости (1 предложение, максимум 10 слов) на русском. Используй информацию из каждого предложения исходной новости, так чтобы не было похоже на заголовок, но общий его смысл сохранялся. Ответь одним предложением без размышлений:\nЗаголовок: {title}\nТекст: {content}"
